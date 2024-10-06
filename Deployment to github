@@ -1,0 +1,12 @@
+<!-- @format -->
+
+Step 1: Create public repo
+Step 2: Add the base(repo name to vite.config.js) e.g: base: '/your-repo-name/', above plugins.
+Step 3: vite build
+Step 4: Push the dist to gh-pages branch: npm install gh-pages --save-dev
+Step 5: Add a script to package.json: "scripts": {
+"build": "vite build",
+"deploy": "gh-pages -d dist"
+}
+Step 6: npm run build
+npm run deploy
