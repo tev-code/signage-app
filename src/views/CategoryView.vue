@@ -83,70 +83,70 @@
               name: "Cell C",
               hours: "Mon - Fri: 9am - 7pm Sat: 9am - 5pm",
               location: "Ground Floor - Shop F180",
-              link: "https://fashion-store1.com",
+              link: "https://www.cellc.co.za/cellc/home",
               images: [audio1, audio2],
             },
             {
               name: "Cell World",
               hours: "Mon - Fri: 9am - 7pm Sat: 9am - 5pm",
               location: "Ground Floor - Shop G264",
-              link: "https://fashion-store2.com",
+              link: "https://sacellworld.co.za/",
               images: [audio1, audio2],
             },
             {
               name: "Computer Mania",
               hours: "Mon - Fri: 9am - 7pm Sat: 9am - 5pm",
               location: "Ground Floor - Shop G54",
-              link: "https://fashion-store1.com",
+              link: "https://computermania.co.za/pages/computer-mania-blue-route-mall",
               images: [audio1, audio2],
             },
             {
               name: "Fuji Image Centre",
               hours: "Mon - Fri: 9am - 7pm Sat: 9am - 5pm",
               location: "Ground Floor - Shop G14",
-              link: "https://fashion-store2.com",
+              link: "https://fujionline.co.za/",
               images: [audio1, audio2],
             },
             {
               name: "Gadget Time",
               hours: "Mon - Fri: 9am - 7pm Sat: 9am - 5pm",
               location: "Ground Floor - Shop G122",
-              link: "https://fashion-store2.com",
+              link: "https://gadgettime.co.za/?srsltid=AfmBOopO6n5nf7SbWWVpsep1bHypXY7b8RIcadOrY9LVYwsWclu0ZlJn",
               images: [audio1, audio2],
             },
             {
               name: "Incredible Connection",
               hours: "Mon - Fri: 9am - 7pm Sat: 9am - 5pm",
               location: "Ground Floor - Shop G34",
-              link: "https://fashion-store1.com",
+              link: "https://www.incredible.co.za/?utm_source=google&utm_medium=locations&utm_campaign=SP&utm_content=SP",
               images: [audio1, audio2],
             },
             {
               name: "MTN",
               hours: "Mon - Fri: 9am - 7pm Sat: 9am - 5pm",
               location: "Ground Floor - Shop G136",
-              link: "https://fashion-store2.com",
+              link: "",
               images: [audio1, audio2],
             },
             {
               name: "Pep Cell",
               hours: "Mon - Fri: 9am - 7pm Sat: 9am - 5pm",
               location: "Ground Floor - Shop G258",
-              link: "https://fashion-store1.com",
+              link: "https://www.pepstores.com/products/cell?srsltid=AfmBOooBM5kcfJqIsXz5Yux3_hDXfKx0qBCZhqQ7GncHR9ULIAtEYZPV",
               images: [audio1, audio2],
             },
             {
               name: "Telkom",
               hours: "Mon - Fri: 9am - 7pm Sat: 9am - 5pm",
               location: "Ground Floor - Shop G254",
-              link: "https://fashion-store2.com",
+              link: "https://www.telkom.co.za/storelocator/details?loc=Telkom%20Blue%20Route%20Express&locationid=aee9c760-56d2-4344-9c09-f499bbff126e",
               images: [audio1, audio2],
             },
             {
               name: "Vodacom",
               hours: "Mon - Fri: 9am - 7pm Sat: 9am - 5pm",
               loaction: "Ground Floor - Shop G26",
-              link: "https://fashion-store2.com",
+              link: "https://www.vodacom.co.za/vodacom/shopping/store-details?loc=Vodacom%20Shop%20Blue%20Route%20Mall&locationid=87230c92-b0c0-4b70-8253-2ff60a6f6ae2&utm_source=google+search&utm_medium=google+business&utm_campaign=Vodacom+Shop+Blue+Route+Mall&utm_id=locations",
               images: [audio1, audio2],
             },
           ],
@@ -156,7 +156,7 @@
               hours:
                 "Mon - Fri: 8:30am - 5pm Sat: 9am - 1pm Sun & Public Holidays: Closed",
               location: "Ground Floor - Shop G16",
-              link: "https://fashion-store1.com",
+              link: "https://www.africanbank.co.za/en/home/",
 
               images: [bank1, bank2],
             },
@@ -165,7 +165,7 @@
               hours:
                 "Mon - Fri: 9am - 6pm Sat: 8am - 1pm Sun & Public Holidays: 8am - 1pm",
               location: "Ground Floor - Shop G82",
-              link: "https://fashion-store2.com",
+              link: "https://www.capitecbank.co.za/",
               images: [bank1, bank2],
             },
             {
@@ -173,7 +173,7 @@
               hours:
                 "Mon - Fri: 8:30am - 5pm Sat: 9am - 1pm Sun & Public Holidays: Closed",
               location: "Ground Floor - Shop G18",
-              link: "https://fashion-store1.com",
+              link: "https://www.fnb.co.za/",
               images: [bank1, bank2],
             },
             {
@@ -181,7 +181,7 @@
               hours:
                 "Mon - Fri: 9am - 4pm Sat: 8:30am - 12pm Sun & Public Holidays: Closed",
               location: "Ground Floor - Shop G22",
-              link: "https://fashion-store2.com",
+              link: "https://personal.nedbank.co.za/home.html",
               images: [bank1, bank2],
             },
             {
@@ -189,7 +189,7 @@
               hours:
                 "Mon - Fri: 9am - 4pm Sat: 8:30am - 1pm Sun & Public Holidays: Closed",
               location: "Ground Floor - Shop G20",
-              link: "https://fashion-store2.com",
+              link: "https://www.standardbank.co.za/southafrica/personal",
               images: [bank1, bank2],
             },
           ],
@@ -199,7 +199,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G28",
-              link: "https://fashion-store1.com",
+              link: "https://www.bargainbooks.co.za/?utm_source=google_maps&utm_medium=website_button&utm_campaign=SP&utm_content=SP",
               images: [supply1, supply2, supply3],
             },
             {
@@ -207,7 +207,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G98",
-              link: "https://fashion-store2.com",
+              link: "https://cardies.co.za/",
               images: [supply1, supply2, supply3],
             },
             {
@@ -215,7 +215,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G128",
-              link: "https://fashion-store1.com",
+              link: "https://cumbooks.co.za/",
               images: [supply1, supply2, supply3],
             },
             {
@@ -223,7 +223,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F189",
-              link: "https://fashion-store2.com",
+              link: "https://www.giftemporiumsa.co.za/",
               images: [supply1, supply2, supply3],
             },
             {
@@ -231,7 +231,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G134",
-              link: "https://fashion-store2.com",
+              link: "https://cottonon.com/ZA/typo-home/?gad_source=1&gclid=EAIaIQobChMI5dnq9ZyLiQMVaLVoCR0l6DQHEAAYASAAEgL78fD_BwE",
               images: [supply1, supply2, supply3],
             },
             {
@@ -239,7 +239,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G132",
-              link: "https://fashion-store2.com",
+              link: "https://yokico.co.za/",
               images: [supply1, supply2, supply3],
             },
           ],
@@ -249,7 +249,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G250",
-              link: "https://fashion-store1.com",
+              link: "https://www.checkers.co.za/",
               images: [liquor],
             },
           ],
@@ -259,7 +259,7 @@
               hours:
                 "Mon - Fri: 10am -11pm Sat: 10am - 11pm Sun: 8am - 9pm & Public Holidays: 10am - 11pm",
               location: "First Floor - Shop F168",
-              link: "https://fashion-store1.com",
+              link: "https://www.sterkinekor.com/",
               images: [entertainment1, entertainment2],
             },
           ],
@@ -269,7 +269,7 @@
               hours:
                 "Mon - Fri: 9am - 5:30pm Sat: 9am - 3pm Sun & Public Holidays: 9am - 3pm",
               location: "Ground Floor - Shop G30",
-              link: "https://fashion-store1.com",
+              link: "https://www.specsavers.co.za/store/blue-route?utm_source=google&utm_medium=organic&utm_campaign=GMB&utm_content=spec-savers-blue-route",
               images: [optics1, optics2, optics3],
             },
             {
@@ -277,7 +277,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm ",
               location: "First Floor - Shop F216",
-              link: "https://fashion-store1.com",
+              link: "https://za.sunglasshut.com/",
               images: [optics1, optics2, optics3],
             },
             {
@@ -285,7 +285,7 @@
               hours:
                 "Mon - Fri: 9am - 6pm Sat: 9am - 5pm Sun: Closed Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G262",
-              link: "https://fashion-store1.com",
+              link: "https://www.torgaoptical.co.za/",
               images: [optics1, optics2, optics3],
             },
             {
@@ -293,7 +293,7 @@
               hours:
                 "Mon - Fri: 9am - 5pm Sat: 9am - 5pm Sun: Closed & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F242",
-              link: "https://fashion-store1.com",
+              link: "https://blueroutemall.co.za/stores/store-list/vision-works-optometrists/",
               images: [optics1, optics2, optics3],
             },
           ],
@@ -303,7 +303,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G40",
-              link: "https://fashion-store1.com",
+              link: "https://www.ackermans.co.za/",
               images: [fashion1, fashion2],
             },
             {
@@ -311,7 +311,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Level",
-              link: "https://fashion-store2.com",
+              link: "https://www.ackermans.co.za/",
               images: [fashion1, fashion2],
             },
             {
@@ -319,7 +319,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G142",
-              link: "https://fashion-store1.com",
+              link: "https://blog.archivestore.co.za/",
               images: [fashion1, fashion2],
             },
             {
@@ -327,7 +327,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F194",
-              link: "https://fashion-store2.com",
+              link: "https://contemposhop.co.za/?srsltid=AfmBOoqeBEGHCcjkk7A6eCA6lA3uBDo5vAxP7pMV-DfeuHODOX5U3XJa",
               images: [fashion1, fashion2],
             },
             {
@@ -335,7 +335,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F192",
-              link: "https://fashion-store2.com",
+              link: "https://cottonon.com/ZA/?srsltid=AfmBOorS-0Zhc1g0w5b_gV4utqrErDDMNL_lNnM8maKhMdHgzjm2AtOD",
               images: [fashion1, fashion2],
             },
             {
@@ -343,7 +343,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F224",
-              link: "https://fashion-store1.com",
+              link: "https://cottonon.com/ZA/?utm_source=google-store-profiles&utm_medium=organic&utm_campaign=google-store-CO-ZA&utm_id=google-store-5340-COTTONON",
               images: [fashion1, fashion2],
             },
             {
@@ -351,7 +351,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F162",
-              link: "https://fashion-store2.com",
+              link: "https://www.dejagersonline.co.za/home",
               images: [fashion1, fashion2],
             },
             {
@@ -359,7 +359,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm ",
               location: "Ground Floor - Shop G46",
-              link: "https://fashion-store1.com",
+              link: "https://www.edgars.co.za/",
               images: [fashion1, fashion2],
             },
             {
@@ -367,7 +367,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G66",
-              link: "https://fashion-store2.com",
+              link: "https://bash.com/exact?redirect=www.exact.co.za",
               images: [fashion1, fashion2],
             },
             {
@@ -375,7 +375,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G138",
-              link: "https://fashion-store2.com",
+              link: "https://bash.com/foschini?redirect=www.foschini.co.za",
               images: [fashion1, fashion2],
             },
             {
@@ -383,7 +383,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F234",
-              link: "https://fashion-store1.com",
+              link: "https://www.identity.co.za/",
               images: [fashion1, fashion2],
             },
             {
@@ -391,7 +391,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G42",
-              link: "https://fashion-store2.com",
+              link: "https://bash.com/jet?redirect=www.jetonline.co.za",
               images: [fashion1, fashion2],
             },
             {
@@ -399,7 +399,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G138",
-              link: "https://fashion-store1.com",
+              link: "https://bash.com/markham?redirect=www.markham.co.za",
               images: [fashion1, fashion2],
             },
             {
@@ -407,7 +407,7 @@
               hours:
                 "Monday - Friday: 9am - 7pm Saturday: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F202",
-              link: "https://fashion-store2.com",
+              link: "https://www.miladys.com/",
               images: [fashion1, fashion2],
             },
             {
@@ -415,7 +415,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F158",
-              link: "https://fashion-store2.com",
+              link: "https://www.mrp.com/home",
               images: [fashion1, fashion2],
             },
             {
@@ -423,7 +423,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               loaction: "First Floor - Shop F240",
-              link: "https://fashion-store1.com",
+              link: "https://www.oldkhaki.co.za/?srsltid=AfmBOopW4xjPFw6AGX30nyP2hqSIDL9PD4tVwEUbbAdCMpl52_CA4qj9",
               images: [fashion1, fashion2],
             },
             {
@@ -431,7 +431,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G68",
-              link: "https://fashion-store2.com",
+              link: "https://www.pepstores.com/?utm_source=google%20&utm_medium=locations&utm_campaign=SP&utm_content=SP",
               images: [fashion1, fashion2],
             },
             {
@@ -439,7 +439,7 @@
               hours:
                 "Monday - Friday: 9am - 7pm Saturday: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F154",
-              link: "https://fashion-store1.com",
+              link: "https://www.picknpayclothing.co.za/",
               images: [fashion1, fashion2],
             },
             {
@@ -447,7 +447,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F182",
-              link: "https://fashion-store2.com",
+              link: "https://boardriders.co.za/?utm_source=google&utm_medium=google+my+business",
               images: [fashion1, fashion2],
             },
             {
@@ -455,7 +455,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               loaction: "First Floor - Shop F196",
-              link: "https://fashion-store2.com",
+              link: "https://www.refinerystore.co.za/?srsltid=AfmBOopkiTMsJomeUpa334598HhheBUASXM_sz7IVeJJo48tmhFJMYE1",
               images: [fashion1, fashion2],
             },
             {
@@ -463,7 +463,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G70",
-              link: "https://fashion-store1.com",
+              link: "https://www.shoecity.co.za/?srsltid=AfmBOoqxkzG1lUJTigKOnC36qGJK0F3zKiixdgolroHUR0ZHU9Bx8uVv",
               images: [fashion1, fashion2],
             },
             {
@@ -471,7 +471,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F201",
-              link: "https://fashion-store2.com",
+              link: "https://blueroutemall.co.za/stores/store-list/sportscene/",
               images: [fashion1, fashion2],
             },
             {
@@ -479,7 +479,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G92",
-              link: "https://fashion-store1.com",
+              link: "https://tekkietown.co.za/?srsltid=AfmBOopvocXm1Y_o3lOrxlV5fDOXsYWXml_61BzUAXaR5ajASaTlGoqP",
               images: [fashion1, fashion2],
             },
             {
@@ -487,7 +487,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pmSun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G90",
-              link: "https://fashion-store2.com",
+              link: "https://bash.com/the-fix",
               images: [fashion1, fashion2],
             },
             {
@@ -495,7 +495,15 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F228",
-              link: "https://fashion-store2.com",
+              link: "https://www.truworths.co.za/",
+              images: [fashion1, fashion2],
+            },
+            {
+              name: "Uniq",
+              hours:
+                "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
+              location: "Ground Floor - Shop G46",
+              link: "https://www.uniqclothing.co.za/",
               images: [fashion1, fashion2],
             },
           ],
@@ -505,7 +513,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G4",
-              link: "https://fashion-store1.com",
+              link: "https://www.clicks.co.za/healthcareservices",
               images: [pharmacy1, pharmacy2],
             },
             {
@@ -513,7 +521,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F206",
-              link: "https://fashion-store1.com",
+              link: "https://www.dischem.co.za/blue-route-pharmacy",
               images: [pharmacy1, pharmacy2],
             },
           ],
@@ -523,7 +531,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               loaction: "Ground Floor - Shop G4",
-              link: "https://fashion-store1.com",
+              link: "https://www.clicks.co.za/",
               images: [beauty1, beauty2],
             },
             {
@@ -531,7 +539,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F206",
-              link: "https://fashion-store1.com",
+              link: "https://www.dischem.co.za/blue-route-pharmacy",
               images: [beauty1, beauty2],
             },
             {
@@ -539,7 +547,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G108",
-              link: "https://fashion-store1.com",
+              link: "https://www.manipedi.co.za/",
               images: [beauty1, beauty2],
             },
             {
@@ -547,7 +555,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F248",
-              link: "https://fashion-store1.com",
+              link: "https://shop.rainafrica.co.za/?srsltid=AfmBOoof_3O-pTUZCurr41iVBEK_USQAozDpgRD2jJKLQvpMf05AxIGr",
               images: [beauty1, beauty2],
             },
             {
@@ -555,7 +563,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F218",
-              link: "https://fashion-store1.com",
+              link: "https://www.sorbet.co.za/",
               images: [beauty1, beauty2],
             },
             {
@@ -563,7 +571,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G107",
-              link: "https://fashion-store1.com",
+              link: "https://partnershair.co.za/",
               images: [beauty1, beauty2],
             },
             {
@@ -571,7 +579,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G32",
-              link: "https://fashion-store1.com",
+              link: "",
               images: [beauty1, beauty2],
             },
             {
@@ -579,7 +587,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G252",
-              link: "https://fashion-store1.com",
+              link: "https://www.facebook.com/people/The-Look/61554328354340/?sk=about",
               images: [beauty1, beauty2],
             },
           ],
@@ -589,7 +597,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun: & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F188",
-              link: "https://car-store1.com",
+              link: "https://www.boldstyle.co.za/",
               images: [speciality1, speciality2],
             },
             {
@@ -597,7 +605,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F244",
-              link: "https://car-store2.com",
+              link: "https://destinations.za.com/",
               images: [speciality1, speciality2],
             },
             {
@@ -605,7 +613,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G76",
-              link: "https://car-store1.com",
+              link: "https://www.facebook.com/PartyCityKingCake/",
               images: [speciality1, speciality2],
             },
             {
@@ -613,7 +621,7 @@
               hours:
                 "Mon - Fri: 7am - 5pm Sat: 9am - 1pm Sun & Public Holidays: Closed",
               location: "Ground Floor",
-              link: "https://car-store2.com",
+              link: "https://www.mercedes-benz.co.za/",
               images: [speciality1, speciality2],
             },
             {
@@ -621,7 +629,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G106",
-              link: "https://car-store2.com",
+              link: "https://perfectnutrition.co.za/",
               images: [speciality1, speciality2],
             },
             {
@@ -629,7 +637,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G64",
-              link: "https://car-store1.com",
+              link: "https://queenofsteel.co.za/",
               images: [speciality1, speciality2],
             },
             {
@@ -637,7 +645,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G146",
-              link: "https://car-store2.com",
+              link: "https://www.cocknbull.co.za/",
               images: [speciality1, speciality2],
             },
             {
@@ -645,7 +653,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G8",
-              link: "https://car-store2.com",
+              link: "https://verimark.co.za/",
               images: [speciality1, speciality2],
             },
           ],
@@ -656,7 +664,7 @@
               hours:
                 "Mon - Thur: 10am - 8pm Fri: 10am - 9pm Sat: 10am - 9pm Sun & Public Holidays: 10am - 9pm",
               location: "First Floor - Shop F186",
-              link: "https://dining-store1.com",
+              link: "https://location.debonairspizza.co.za/blue-route-mall?y_source=1_MTI0NTA4MjAtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
               images: [dining1, dining2],
             },
             {
@@ -664,7 +672,7 @@
               hours:
                 "Mon - Fri: 10:30am - 9pm Sat: 10:30am - 9:30pm Sun & Public Holidays: 10:30am - 8:30pm",
               location: "First Floor - Shop F185",
-              link: "https://dining-store2.com",
+              link: "https://www.instagram.com/jakura_sushi/",
               images: [dining1, dining2],
             },
             {
@@ -672,7 +680,7 @@
               hours:
                 "Mon - Fri: 10am - 8pm Sat: 9am - 8pm Sun & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F187",
-              link: "https://dining-store1.com",
+              link: "https://kauai.co.za/?utm_source=google_maps&utm_medium=website_button&utm_campaign=SP&utm_content=SP",
               images: [dining1, dining2],
             },
             {
@@ -680,7 +688,7 @@
               hours:
                 "Mon - Fri: 8am - 8pm Sat: 8am - 8pm Sun & Public Holidays: 8am - 6:30pm",
               location: "Ground Floor - Shop G114",
-              link: "https://dining-store2.com",
+              link: "https://order.kfc.co.za/",
               images: [dining1, dining2],
             },
             {
@@ -688,7 +696,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G103",
-              link: "https://dining-store2.com",
+              link: "https://www.marcels.co.za/",
               images: [dining1, dining2],
             },
             {
@@ -696,7 +704,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G118",
-              link: "https://dining-store1.com",
+              link: "https://www.instagram.com/metro_pie/",
               images: [dining1, dining2],
             },
             {
@@ -704,7 +712,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G112",
-              link: "https://dining-store2.com",
+              link: "https://www.montagusnacks.co.za/?utm_source=google_maps&utm_medium=website_button&utm_campaign=SP&utm_content=SP",
               images: [dining1, dining2],
             },
             {
@@ -712,7 +720,7 @@
               hours:
                 "Mon - Fri: 8am - 5pm Sat: 8am - 5pm Sun: 8am - 5pm & Public Holidays: 9am - 3/5pm",
               loaction: "First Floor - Shop F214",
-              link: "https://dining-store1.com",
+              link: "https://muggandbean.co.za/our-menu/on-the-move-menu/?utm_source=yext_pages&utm_medium=referral&utm_campaign=header_link&utm_content=on_the_move_menu",
               images: [dining1, dining2],
             },
             {
@@ -720,7 +728,7 @@
               hours:
                 "Mon - Fri: 11am - 8pm Sat: 11am - 8pm Sun: 11am - 6pm & Public Holidays: 11am - 8pm",
               location: "First Floor - Shop F184",
-              link: "https://dining-store2.com",
+              link: "https://oceanbasket.co.za/?utm_source=google_maps&utm_medium=website_button&utm_campaign=SP&utm_content=SP",
               images: [dining1, dining2],
             },
             {
@@ -728,7 +736,7 @@
               hours:
                 "Mon - Fri: 8am - 7pm Sat: 8am - 7pm Sun & Public Holidays: 8am - 5pm",
               loaction: "Ground Floor - Shop G72",
-              link: "https://dining-store2.com",
+              link: "https://www.peacockteaandcoffee.co.za/",
               images: [dining1, dining2],
             },
             {
@@ -736,7 +744,7 @@
               hours:
                 "Mon - Thur: 9am - 9pm Fri: 9am - 10pm Sat: 9am - 10pm Sun: 9am - 8pm Public Holidays: 9am - 8pm",
               location: "First Floor - Shop F174",
-              link: "https://dining-store1.com",
+              link: "https://www.spursteakranches.com/za/restaurant/western-cape/cape-town/tokai/silver-mountain-spur",
               images: [dining1, dining2],
             },
             {
@@ -744,7 +752,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G88",
-              link: "https://dining-store2.com",
+              link: "https://www.namaqualandbiltong.co.za/",
               images: [dining1, dining2],
             },
             {
@@ -752,7 +760,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G124",
-              link: "https://dining-store1.com",
+              link: "https://www.dining-out.co.za/md/Stellas/5134",
               images: [dining1, dining2],
             },
             {
@@ -760,7 +768,7 @@
               hours:
                 "Mon - Fri: 8am - 5pm Sat: 8am - 5pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G116",
-              link: "https://dining-store2.com",
+              link: "https://location.wimpy.co.za/blue-route-mall",
               images: [dining1, dining2],
             },
           ],
@@ -770,7 +778,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F220",
-              link: "https://dining-store1.com",
+              link: "https://www.capeunionmart.co.za/",
               images: [activity1, activity2],
             },
             {
@@ -778,7 +786,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F160",
-              link: "https://dining-store2.com",
+              link: "https://www.mrp.com/home",
               images: [activity1, activity2],
             },
             {
@@ -786,7 +794,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays 9am - 5pm",
               location: "Ground Floor - Shop G12",
-              link: "https://dining-store1.com",
+              link: "https://bash.com/totalsports?redirect=www.totalsports.co.za",
               images: [activity1, activity2],
             },
           ],
@@ -796,7 +804,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G138",
-              link: "https://event-store1.com",
+              link: "https://bash.com/american-swiss?redirect=www.americanswiss.co.za",
               images: [jewellery1, jewellery2],
             },
             {
@@ -804,7 +812,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F204",
-              link: "https://event-store2.com",
+              link: "https://www.lovisajewellery.co.za/pages/store-locator?srsltid=AfmBOoqBh71uDpim4rk24Qtkz-HvqriU_s3vsHzao9XUFu-mwMQqkWqT",
               images: [jewellery1, jewellery2],
             },
             {
@@ -812,7 +820,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G74",
-              link: "https://event-store1.com",
+              link: "https://bash.com/sterns?redirect=www.sterns.co.za",
               images: [jewellery1, jewellery2],
             },
           ],
@@ -822,7 +830,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G44",
-              link: "https://legal-store1.com",
+              link: "https://bash.com/homewarestore?redirect=www.home.co.za",
               images: [interior1, interior2],
             },
             {
@@ -830,7 +838,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G85",
-              link: "https://legal-store2.com",
+              link: "https://www.houseandhome.co.za/products",
               images: [interior1, interior2],
             },
             {
@@ -838,7 +846,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G138",
-              link: "https://legal-store1.com",
+              link: "https://bash.com/jet?redirect=www.jetonline.co.za",
               images: [interior1, interior2],
             },
             {
@@ -846,7 +854,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F156",
-              link: "https://legal-store2.com",
+              link: "https://www.mrp.com/home",
               images: [interior1, interior2],
             },
             {
@@ -854,7 +862,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G96",
-              link: "https://legal-store2.com",
+              link: "https://www.sheetstreet.com/",
               images: [interior1, interior2],
             },
           ],
@@ -865,7 +873,7 @@
               hours:
                 "Mon - Fri: 10am - 6pm Sat: 9am - 3pm Sun: Closed & Public Holidays: 9am - 1pm",
               location: "Ground Floor - Shop G56",
-              link: "https://legal-store1.com",
+              link: "https://www.wcbs.org.za/",
               images: [service1, service2],
             },
             {
@@ -873,7 +881,7 @@
               hours:
                 "Mon - Fri: 9am - 5pm Sat: 9am - 3pm Sun: & Public Holidays: Closed",
               location: "Ground Floor - Shop G268",
-              link: "https://legal-store2.com",
+              link: "https://blueroutemall.co.za/stores/store-list/blue-route-tailors/",
               images: [service1, service2],
             },
             {
@@ -881,7 +889,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G120",
-              link: "https://legal-store1.com",
+              link: "https://cobblerandco.co.za/",
               images: [service1, service2],
             },
             {
@@ -889,7 +897,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G266",
-              link: "https://legal-store2.com",
+              link: "https://copyexpress.co.za/",
               images: [service1, service2],
             },
             {
@@ -897,7 +905,7 @@
               hours:
                 "Mon - Fri: 9am - 5:30pm Sat: 9am - 4pm Sun & Public Holidays: 9am - 1pm",
               location: "Ground Floor - Shop G110",
-              link: "https://legal-store2.com",
+              link: "https://www.flightcentre.co.za/?utm_source=google&utm_medium=organic&utm_campaign=gmb_listing&utm_term=BlueRoute",
               images: [service1, service2],
             },
             {
@@ -905,7 +913,7 @@
               hours:
                 "Mon - Fri: 9am - 5pm Sat: 9am - 5pm Sun & Public Holidays: 9am - 2pm",
               location: "Ground Floor - Shop G260",
-              link: "https://legal-store1.com",
+              link: "https://hearingaidlabs.co.za/contact-us/#cape-town",
               images: [service1, service2],
             },
             {
@@ -913,7 +921,7 @@
               hours:
                 "Mon - Fri: 8am - 5pm Sat: 8am - 3pm Sun & Public Holidays: 9am - 2pm",
               location: "Ground Floor - Shop P306",
-              link: "https://legal-store2.com",
+              link: "https://ryanscarwash.co.za/",
               images: [service1, service2],
             },
             {
@@ -921,7 +929,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F226",
-              link: "https://legal-store1.com",
+              link: "https://thetuxtailor.com/",
               images: [service1, service2],
             },
             {
@@ -929,7 +937,7 @@
               hours:
                 "Mon - Fri: 8am - 5pm Sat: 8am - 1pm Sun: Closed & Public Holidays: 8am - 1pm",
               location: "Ground Floor",
-              link: "https://legal-store2.com",
+              link: "https://www.twt.co.za/promotions/",
               images: [service1, service2],
             },
           ],
@@ -939,7 +947,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G100",
-              link: "https://legal-store1.com",
+              link: "https://www.absolutepets.com/",
               images: [pet1, pet2],
             },
           ],
@@ -949,7 +957,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G86",
-              link: "https://legal-store1.com",
+              link: "https://www.checkers.co.za/",
               images: [supermarket2, supermarket3],
             },
             {
@@ -957,7 +965,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays 9am - 5pm",
               location: "Ground Level",
-              link: "https://legal-store1.com",
+              link: "https://www.woolworths.co.za/",
               images: [supermarket2, supermarket3],
             },
           ],
@@ -967,7 +975,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F198",
-              link: "https://legal-store1.com",
+              link: "https://www.crazystore.co.za/?utm_source=local&utm_medium=organic&utm_campaign=gmb-tokai-ak",
               images: [toy1, toy2],
             },
             {
@@ -975,7 +983,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "Ground Floor - Shop G256",
-              link: "https://legal-store1.com",
+              link: "https://blueroutemall.co.za/stores/store-list/tokai-arts-and-crafts/",
               images: [toy1, toy2],
             },
             {
@@ -983,7 +991,7 @@
               hours:
                 "Mon - Fri: 9am - 7pm Sat: 9am - 7pm Sun & Public Holidays: 9am - 5pm",
               location: "First Floor - Shop F150",
-              link: "https://legal-store1.com",
+              link: "https://www.toysrus.co.za/",
               images: [toy1, toy2],
             },
           ],
