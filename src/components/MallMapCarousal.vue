@@ -82,8 +82,8 @@
 
   .map-image {
     width: 100%;
-    max-width: 600px; /* Set a max width for carousel images */
-    max-height: 400px; /* Set a max height to limit image size */
+    max-width: 800px; /* Set a max width for carousel images */
+    max-height: 600px; /* Set a max height to limit image size */
     object-fit: cover; /* Ensures the image maintains aspect ratio */
     border-radius: 8px;
     padding-top: 10px;

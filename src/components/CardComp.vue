@@ -95,7 +95,7 @@
     height: 800px;
     display: flex;
     flex-direction: column;
-    border: 1px solid whitesmoke;
+    border: 1px solid #1d1d1d;
     border-radius: 8px;
     overflow: hidden;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);

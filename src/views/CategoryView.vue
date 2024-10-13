@@ -29,8 +29,6 @@
   // Import all the images
   import MallMapCarousal from "../components/MallMapCarousal.vue";
 
-  import mall1 from "../assets/mall1.jpg";
-  import mall2 from "../assets/mall2.jpg";
   import fashion1 from "../assets/fashion1.jpg";
   import fashion2 from "../assets/fashion2.jpg";
 
@@ -38,8 +36,7 @@
   import beauty2 from "../assets/beauty2.jpg";
   import dining1 from "../assets/dining1.jpg";
   import dining2 from "../assets/dining2.jpg";
-  import event1 from "../assets/event1.jpg";
-  import event2 from "../assets/event2.jpg";
+
   import entertainment1 from "../assets/entertainment1.jpg";
   import entertainment2 from "../assets/entertainment2.jpg";
   import service1 from "../assets/service1.jpg";

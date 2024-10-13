@@ -25,7 +25,7 @@
     background: url("../assets/background.jpg") no-repeat center center;
     background-size: cover;
     position: relative;
-    height: 600px;
+    height: 700px;
     font-family: "Poppins", sans-serif;
   }
 
