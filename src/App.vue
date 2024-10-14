@@ -7,7 +7,7 @@
     <router-view :key="$route.fullPath" />
     <footer class="footer">
       <div class="footer-content">
-        <p>&copy; 2024 Monkae. All rights reserved.</p>
+        <p>&copy; 2025 Monkae. All rights reserved.</p>
         <p>
           <a href="/privacy-policy">Privacy Policy</a>
           |

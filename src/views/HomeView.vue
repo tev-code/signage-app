@@ -5,7 +5,13 @@
     <Navbar />
     <Header />
     <div class="event-section">
+      <div class="h2-container">
+        <h2>Ads and Events</h2>
+      </div>
       <EventCarousal :events="events" />
+    </div>
+    <div class="h2-container">
+      <h2>Shops</h2>
     </div>
     <div class="card-container">
       <Card
@@ -172,5 +178,17 @@
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: 20px;
     padding: 1rem;
+  }
+
+  .h2-container {
+    text-align: center; /* Center the container */
+    margin-top: 20px; /* Adjust if needed */
+  }
+
+  h2 {
+    color: #fff; /* Change to your desired color */
+    border-bottom: 2px solid #949494; /* Underline */
+    padding-bottom: 5px; /* Space between text and underline */
+    display: inline-block; /* Makes the underline only as wide as the text */
   }
 </style>
