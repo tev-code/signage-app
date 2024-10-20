@@ -27,7 +27,6 @@
 </template>
 
 <script>
-  import ScrollReveal from "scrollreveal";
   import Navbar from "../components/NavbarComp.vue";
   import Header from "../components/HeaderComp.vue";
   import Card from "../components/CardComp.vue";
@@ -67,7 +66,8 @@
   import audio2 from "../assets/audio2.jpg";
   import bank1 from "../assets/bank1.jpg";
   import bank2 from "../assets/bank2.jpg";
-  import vid from "../assets/vid.mp4";
+  import vid1 from "../assets/vid1.mp4";
+  import vid2 from "../assets/vid2.mp4";
   import activity1 from "../assets/activity1.jpg";
   import activity2 from "../assets/activity2.jpg";
   import interior1 from "../assets/interior1.jpg";
@@ -86,10 +86,10 @@
     data() {
       return {
         events: [
-          { type: "video", media: vid },
+          { type: "video", media: vid1 },
           { type: "image", media: mall1 },
           { type: "image", media: event2 },
-          { type: "video", media: vid },
+          { type: "video", media: vid2 },
           { type: "image", media: mall2 },
           { type: "image", media: event1 },
         ],
@@ -152,22 +152,6 @@
       getBusinessLink(categoryName) {
         return `/category/${categoryName}`;
       },
-    },
-    mounted() {
-      ScrollReveal().reveal(".event-section", {
-        duration: 1000,
-        distance: "50px",
-        origin: "bottom",
-        easing: "ease-in-out",
-        interval: 100,
-      });
-      ScrollReveal().reveal(".card-container > *", {
-        duration: 1000,
-        distance: "50px",
-        origin: "bottom",
-        easing: "ease-in-out",
-        interval: 100,
-      });
     },
   };
 </script>

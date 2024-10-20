@@ -49,7 +49,7 @@
   import pet2 from "../assets/pet2.jpg";
   import speciality1 from "../assets/speciality1.jpg";
   import speciality2 from "../assets/speciality2.jpg";
-  import speciality from "../assets/speciality3.jpg";
+
   import supermarket2 from "../assets/supermarket2.jpg";
   import supermarket3 from "../assets/supermarket3.jpg";
   import supply1 from "../assets/supply1.jpg";
@@ -59,7 +59,7 @@
   import audio2 from "../assets/audio2.jpg";
   import bank1 from "../assets/bank1.jpg";
   import bank2 from "../assets/bank2.jpg";
-  import vid from "../assets/vid.mp4";
+  import vid1 from "../assets/vid1.mp4";
   import activity1 from "../assets/activity1.jpg";
   import activity2 from "../assets/activity2.jpg";
   import interior1 from "../assets/interior1.jpg";

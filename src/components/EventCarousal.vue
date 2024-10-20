@@ -147,8 +147,8 @@
   }
 
   .modal-image {
-    max-width: 60%;
-    max-height: 60%;
+    max-width: 100%;
+    max-height: 100%;
     border-radius: 8px;
   }
 
@@ -170,7 +170,9 @@
 
   .media-container {
     position: relative;
-    cursor: pointer; /* Show pointer on hover */
+    cursor: pointer;
+    overflow: hidden;
+    height: 600px;
   }
 
   .tap-overlay {
